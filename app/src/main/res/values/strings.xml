@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Thooimai - தூய்மை தமிழகம்</string>
+    <string name="motivator_profile">Motivator Profile</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">UserName</string>
+    <string name="btn_login">Login</string>
+    <string name="font_circular_medium">circular-medium.ttf</string>
+    <string name="font_circular_bold">circular-bold.ttf</string>
+    <string name="font_circular_book">circular-book.ttf</string>
+    <string name="font_circular_black">circular-black.ttf</string>
+    <string name="font_normal">din_pro_light.otf</string>
+    <string name="no_internet">Your internet seems to be offline!</string>
+    <string name="view_image">View Inspected Image</string>
+    <string name="take_action">Take Action</string>
+    <string name="view_action">View Action</string>
+    <string name="action_taken_tv">Action Taken Against Inspection Report for High Value Project</string>
+    <string name="init_vector">2SN22SkJGDyOAXUU</string>
+    <string name="click_to_download_your_inspecting_block">Click to Download your Inspecting Block</string>
+    <string name="click_to_download_your_inspecting_financial_year">Click to Download your Inspecting Financial Year</string>
+    <string name="click_to_download_your_inspecting_scheme">Click to Download your Inspecting Scheme</string>
+    <string name="select_scheme">Select Scheme</string>
+    <string name="financial_year">Financial Year</string>
+    <string name="finyear_dialog_title">Select Financial year</string>
+    <string name="block_dialog_title">Select Block</string>
+    <string name="village_dialog_title">Select Village</string>
+    <string name="scheme_dialog_title">Select Scheme</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+
+    <string name="RememberMe">Remember Me</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Logo">Logo</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="Email">Email</string>
+    <string name="ConfirmEmailAddress">Confirm Email Address</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="registrationPage">Registration Page</string>
+
+    <string name="select_district">Select District</string>
+    <string name="select_block">Select Block</string>
+    <string name="select_village">Select Village</string>
+    <string name="address">Address</string>
+    <string name="phoneno">Phone no.</string>
+    <string name="digits">0123456789+</string>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
